@@ -15,3 +15,4 @@
 /home/deadphixie/projects/portListener/bin/Debug/net9.0/CommandLine.dll
 /home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.csproj.AssemblyReference.cache
 /home/deadphixie/projects/portListener/obj/Debug/net9.0/portList.44378A87.Up2Date
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.sourcelink.json
