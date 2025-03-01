@@ -1,0 +1,17 @@
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/portListener
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/portListener.deps.json
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/portListener.runtimeconfig.json
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/portListener.dll
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/portListener.pdb
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.AssemblyInfoInputs.cache
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.AssemblyInfo.cs
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.csproj.CoreCompileInputs.cache
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.dll
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/refint/portListener.dll
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.pdb
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.genruntimeconfig.cache
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/ref/portListener.dll
+/home/deadphixie/projects/portListener/bin/Debug/net9.0/CommandLine.dll
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portListener.csproj.AssemblyReference.cache
+/home/deadphixie/projects/portListener/obj/Debug/net9.0/portList.44378A87.Up2Date

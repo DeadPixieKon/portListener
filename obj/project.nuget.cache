@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3lZmu8hQ0s=",
+  "success": true,
+  "projectFilePath": "/home/deadphixie/projects/portListener/portListener.csproj",
+  "expectedPackageFiles": [
+    "/home/deadphixie/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
